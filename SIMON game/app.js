@@ -2,7 +2,7 @@ let gameGuess = [];
 let usGuess = [];
 
 let level = 0;
-let started = false;
+let started = false; //just for check;
 
 let btns = ["red", "yellow", "green", "blue"];
 
